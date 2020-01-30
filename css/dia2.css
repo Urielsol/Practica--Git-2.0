@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #BBDE0A;
+    text-align: center;
+}
+
+.skills {
+    background-color: #FF5500;
+}
+
+.columns {
+    display: flex;
+}
+
+.column {
+    margin: 5px;
+}

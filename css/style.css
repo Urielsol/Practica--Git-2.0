@@ -1,0 +1,17 @@
+p {
+    color : #0FB990; 
+    font-size: 20px;
+}
+.test {
+    background-color: #790FB9 ;
+    color:#FFFFFF ;
+    font-size: 20px;
+    width: 300px;
+    height: 100px;
+    margin: 10px;
+    padding: 20px;
+}
+
+#id1 {
+    border: 5px solid #02FF05 ;
+}
